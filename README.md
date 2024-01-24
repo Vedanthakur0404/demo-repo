@@ -1,6 +1,6 @@
 ## DEMO
 This is a readMe file
 
-Adding line nmber 2
+Adding line 
 
 Adding another line to file
